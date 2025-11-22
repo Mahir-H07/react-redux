@@ -12,7 +12,7 @@ function App() {
  
 
   return (
-    <div>
+    <div className='px-40 mt-16'>
       
       <div className='h-30 bg-slate-500 text-white flex justify-center items-center rounded-2xl mt-10   ' >
         <h1 className='text-5xl font-bold'>Count : {value}</h1>
